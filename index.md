@@ -128,7 +128,7 @@
        <div class="topic">wanna reach out?</div>
        <p>my instagram is @batosonline, facebook.com/btdlgrxyz, soundcloud.com/batosonline</p>
        <div class="button">
-         <a href"mailto:bato@nyu.edu"><button>E-mail me</button></a>
+         <a href"mailto: bato@nyu.edu"><button>E-mail me</button></a>
        </div>
      </div>
    </div>
