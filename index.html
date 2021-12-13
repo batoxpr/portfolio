@@ -20,6 +20,7 @@
           <li><a href="#home">home</a></li>
           <li><a href="#about">about</a></li>
           <li><a href="#projects">projects</a></li>
+            <li><a href="#contact">contact</a></li>
           <div class="cancel-btn">
             <i class="fas fa-times"></i>
           </div>
@@ -116,6 +117,20 @@
        <p>this google doc includes the documentation link to all of my projects. </p>
      </div>
    </div>
+   </div>
+ </section>
+
+ <!-- Contact Me section Start -->
+ <section class="contact" id="contact">
+   <div class="content">
+     <div class="title"><span>contact me</span></div>
+     <div class="text">
+       <div class="topic">wanna reach out?</div>
+       <p>my instagram is @batosonline, facebook.com/btdlgrxyz, soundcloud.com/batosonline</p>
+       <div class="button">
+         <a href"mailto:bato@nyu.edu"><button>E-mail me</button></a>
+       </div>
+     </div>
    </div>
  </section>
 
