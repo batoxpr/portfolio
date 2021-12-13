@@ -60,8 +60,8 @@
     <div class="right">
       <div class="topic">I like everything creative</div>
       <p>I'm a film and music enthusiast. i like to leisure read, watch good films, and experiment with music production.
-        visit my soundcloud to listen to my old demos. my comfort movie is ghost world (2001). my favorite murakami book is "dance dance dance".
-        i'm ending the introduction here. message me on insta to know me more^^ btw my zodiac sign is aquarius</p>
+        visit my soundcloud to listen to my old demos! my comfort movie is ghost world (2001). my favorite murakami book is "dance dance dance".
+        i'm ending the introduction here~ message me on insta to know me more^^ btw my zodiac sign is aquarius!</p>
       <div class="button">
         <a href="https://drive.google.com/file/d/14gnr7kvlOAFTy84t-atkIOHjTuBMyBnZ/view?usp=sharing"><button>Download Resume</button></a>
       </div>
@@ -82,7 +82,7 @@
            <i class="fas fa-desktop"></i>
        </div>
        <a href="https://batoxpr.github.io/30mff"><div class="topic">film premiere site</div></a>
-       <p>morning in dubai & karachi is a short film made by nyu ad freshmen bato and abdullah for their communications lab class with professor michael allison</p>
+       <p>"morning in dubai & karachi" is a short film made by nyu ad freshmen bato and abdullah for their communications lab class with professor michael allison</p>
      </div>
 
        <div class="box">
@@ -90,7 +90,7 @@
            <i class="fas fa-paint-brush"></i>
        </div>
        <a href="https://oomie.github.io/comix"><div class="topic">comix</div></a>
-       <p>city tripping is an interactive comics made by nyuad freshmen toomie, bato, dilnaz, and yeva</p>
+       <p>"city tripping" is an interactive comics made by nyuad freshmen toomie, bato, dilnaz, and yeva</p>
      </div>
 
        <div class="box">
@@ -98,7 +98,7 @@
            <i class="fas fa-volume-up"></i>
        </div>
        <a href="https://daniaezz.github.io/unusual"><div class="topic">sounds like</div></a>
-       <p>stories of the unsual is a web radio show recorded by aadil, bato, dania, and ehtisham</p>
+       <p>"stories of the unsual" is a web radio show recorded by aadil, bato, dania, and ehtisham</p>
      </div>
 
        <div class="box">
@@ -106,7 +106,7 @@
            <i class="fas fa-photo-video"></i>
        </div>
       <a href="https://j-da-savage.github.io/Assignment-4-Comm-Lab/"><div class="topic">vid-e-oh!</div></a>
-       <p>comm lab games is a fictional event documentary made by comm lab students rock, bato, jannah, and abdullah</p>
+       <p>"comm lab games" is a fictional event documentary made by comm lab students rock, bato, jannah, and abdullah</p>
      </div>
 
        <div class="box">
